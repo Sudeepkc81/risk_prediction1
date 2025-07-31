@@ -1,0 +1,641 @@
+Diabetes,Gender,Smoking,Age,SBP,Cholesterol,Risk,Risk Level
+Yes,Male,No,40,120,4,Green,<10%
+Yes,Male,No,40,120,5,Green,<10%
+Yes,Male,No,40,120,6,Green,<10%
+Yes,Male,No,40,120,7,Green,<10%
+Yes,Male,No,40,120,8,yellow,10% to <20%
+Yes,Male,No,40,140,4,Green,<10%
+Yes,Male,No,40,140,5,Green,<10%
+Yes,Male,No,40,140,6,green,<10%
+Yes,Male,No,40,140,7,yellow,10% to <20%
+Yes,Male,No,40,140,8,Red-Orange,30% to <40%
+Yes,Male,No,40,160,4,Green,<10%
+Yes,Male,No,40,160,5,yellow,10% to <20%
+Yes,Male,No,40,160,6,Orange,20% to <30%
+Yes,Male,No,40,160,7,Red,>40%
+Yes,Male,No,40,160,8,Red,>40%
+Yes,Male,No,40,180,4,Orange,20% to <30%
+Yes,Male,No,40,180,5,Red-Orange,30% to <40%
+Yes,Male,No,40,180,6,Red,>40%
+Yes,Male,No,40,180,7,Red,>40%
+Yes,Male,No,40,180,8,Red,>40%
+Yes,Male,No,50,120,4,Green,<10%
+Yes,Male,No,50,120,5,Green,<10%
+Yes,Male,No,50,120,6,Green,<10%
+Yes,Male,No,50,120,7,yellow,10% to <20%
+Yes,Male,No,50,120,8,Orange,20% to <30%
+Yes,Male,No,50,140,4,Green,<10%
+Yes,Male,No,50,140,5,Green,<10%
+Yes,Male,No,50,140,6,yellow,10% to <20%
+Yes,Male,No,50,140,7,Orange,20% to <30%
+Yes,Male,No,50,140,8,Red,>40%
+Yes,Male,No,50,160,4,yellow,10% to <20%
+Yes,Male,No,50,160,5,yellow,10% to <20%
+Yes,Male,No,50,160,6,Red-Orange,30% to <40%
+Yes,Male,No,50,160,7,Red,>40%
+Yes,Male,No,50,160,8,Red,>40%
+Yes,Male,No,50,180,4,Red-Orange,30% to <40%
+Yes,Male,No,50,180,5,Red,>40%
+Yes,Male,No,50,180,6,Red,>40%
+Yes,Male,No,50,180,7,Red,>40%
+Yes,Male,No,50,180,8,Red,>40%
+Yes,Male,No,60,120,4,Green,<10%
+Yes,Male,No,60,120,5,yellow,10% to <20%
+Yes,Male,No,60,120,6,yellow,10% to <20%
+Yes,Male,No,60,120,7,Orange,20% to <30%
+Yes,Male,No,60,120,8,Red-Orange,30% to <40%
+Yes,Male,No,60,140,4,yellow,10% to <20%
+Yes,Male,No,60,140,5,Orange,20% to <30%
+Yes,Male,No,60,140,6,Red-Orange,30% to <40%
+Yes,Male,No,60,140,7,Red,>40%
+Yes,Male,No,60,140,8,Red,>40%
+Yes,Male,No,60,160,4,Orange,20% to <30%
+Yes,Male,No,60,160,5,Red-Orange,30% to <40%
+Yes,Male,No,60,160,6,Red,>40%
+Yes,Male,No,60,160,7,Red,>40%
+Yes,Male,No,60,160,8,Red,>40%
+Yes,Male,No,60,180,4,Red,>40%
+Yes,Male,No,60,180,5,Red,>40%
+Yes,Male,No,60,180,6,Red,>40%
+Yes,Male,No,60,180,7,Red,>40%
+Yes,Male,No,60,180,8,Red,>40%
+Yes,Male,No,70,120,4,yellow,10% to <20%
+Yes,Male,No,70,120,5,yellow,10% to <20%
+Yes,Male,No,70,120,6,Orange,20% to <30%
+Yes,Male,No,70,120,7,Red-Orange,30% to <40%
+Yes,Male,No,70,120,8,Red,>40%
+Yes,Male,No,70,140,4,Orange,20% to <30%
+Yes,Male,No,70,140,5,Red-Orange,30% to <40%
+Yes,Male,No,70,140,6,Red-Orange,30% to <40%
+Yes,Male,No,70,140,7,Red,>40%
+Yes,Male,No,70,140,8,Red,>40%
+Yes,Male,No,70,160,4,Red-Orange,30% to <40%
+Yes,Male,No,70,160,5,Red,>40%
+Yes,Male,No,70,160,6,Red,>40%
+Yes,Male,No,70,160,7,Red,>40%
+Yes,Male,No,70,160,8,Red,>40%
+Yes,Male,No,70,180,4,Red,>40%
+Yes,Male,No,70,180,5,Red,>40%
+Yes,Male,No,70,180,6,Red,>40%
+Yes,Male,No,70,180,7,Red,>40%
+Yes,Male,No,70,180,8,Red,>40%
+Yes,Male,Yes,40,120,4,Green,<10%
+Yes,Male,Yes,40,120,5,Green,<10%
+Yes,Male,Yes,40,120,6,Green,<10%
+Yes,Male,Yes,40,120,7,yellow,10% to <20%
+Yes,Male,Yes,40,120,8,Red-Orange,30% to <40%
+Yes,Male,Yes,40,140,4,Green,<10%
+Yes,Male,Yes,40,140,5,Green,<10%
+Yes,Male,Yes,40,140,6,yellow,10% to <20%
+Yes,Male,Yes,40,140,7,Red-Orange,30% to <40%
+Yes,Male,Yes,40,140,8,Red,>40%
+Yes,Male,Yes,40,160,4,yellow,10% to <20%
+Yes,Male,Yes,40,160,5,Orange,20% to <30%
+Yes,Male,Yes,40,160,6,Red,>40%
+Yes,Male,Yes,40,160,7,Red,>40%
+Yes,Male,Yes,40,160,8,Red,>40%
+Yes,Male,Yes,40,180,4,Red,>40%
+Yes,Male,Yes,40,180,5,Red,>40%
+Yes,Male,Yes,40,180,6,Red,>40%
+Yes,Male,Yes,40,180,7,Red,>40%
+Yes,Male,Yes,40,180,8,Red,>40%
+Yes,Male,Yes,50,120,4,Green,<10%
+Yes,Male,Yes,50,120,5,Green,<10%
+Yes,Male,Yes,50,120,6,yellow,10% to <20%
+Yes,Male,Yes,50,120,7,Orange,20% to <30%
+Yes,Male,Yes,50,120,8,Red,>40%
+Yes,Male,Yes,50,140,4,Green,<10%
+Yes,Male,Yes,50,140,5,yellow,10% to <20%
+Yes,Male,Yes,50,140,6,Orange,20% to <30%
+Yes,Male,Yes,50,140,7,Red,>40%
+Yes,Male,Yes,50,140,8,Red,>40%
+Yes,Male,Yes,50,160,4,Orange,20% to <30%
+Yes,Male,Yes,50,160,5,Red-Orange,30% to <40%
+Yes,Male,Yes,50,160,6,Red,>40%
+Yes,Male,Yes,50,160,7,Red,>40%
+Yes,Male,Yes,50,160,8,Red,>40%
+Yes,Male,Yes,50,180,4,Red,>40%
+Yes,Male,Yes,50,180,5,Red,>40%
+Yes,Male,Yes,50,180,6,Red,>40%
+Yes,Male,Yes,50,180,7,Red,>40%
+Yes,Male,Yes,50,180,8,Red,>40%
+Yes,Male,Yes,60,120,4,yellow,10% to <20%
+Yes,Male,Yes,60,120,5,Orange,20% to <30%
+Yes,Male,Yes,60,120,6,Red-Orange,30% to <40%
+Yes,Male,Yes,60,120,7,Red,>40%
+Yes,Male,Yes,60,120,8,Red,>40%
+Yes,Male,Yes,60,140,4,Orange,20% to <30%
+Yes,Male,Yes,60,140,5,Red-Orange,30% to <40%
+Yes,Male,Yes,60,140,6,Red,>40%
+Yes,Male,Yes,60,140,7,Red,>40%
+Yes,Male,Yes,60,140,8,Red,>40%
+Yes,Male,Yes,60,160,4,Red,>40%
+Yes,Male,Yes,60,160,5,Red,>40%
+Yes,Male,Yes,60,160,6,Red,>40%
+Yes,Male,Yes,60,160,7,Red,>40%
+Yes,Male,Yes,60,160,8,Red,>40%
+Yes,Male,Yes,60,180,4,Red,>40%
+Yes,Male,Yes,60,180,5,Red,>40%
+Yes,Male,Yes,60,180,6,Red,>40%
+Yes,Male,Yes,60,180,7,Red,>40%
+Yes,Male,Yes,60,180,8,Red,>40%
+Yes,Male,Yes,70,120,4,Orange,20% to <30%
+Yes,Male,Yes,70,120,5,Red-Orange,30% to <40%
+Yes,Male,Yes,70,120,6,Red-Orange,30% to <40%
+Yes,Male,Yes,70,120,7,Red,>40%
+Yes,Male,Yes,70,120,8,Red,>40%
+Yes,Male,Yes,70,140,4,Red-Orange,30% to <40%
+Yes,Male,Yes,70,140,5,Red,>40%
+Yes,Male,Yes,70,140,6,Red,>40%
+Yes,Male,Yes,70,140,7,Red,>40%
+Yes,Male,Yes,70,140,8,Red,>40%
+Yes,Male,Yes,70,160,4,Red,>40%
+Yes,Male,Yes,70,160,5,Red,>40%
+Yes,Male,Yes,70,160,6,Red,>40%
+Yes,Male,Yes,70,160,7,Red,>40%
+Yes,Male,Yes,70,160,8,Red,>40%
+Yes,Male,Yes,70,180,4,Red,>40%
+Yes,Male,Yes,70,180,5,Red,>40%
+Yes,Male,Yes,70,180,6,Red,>40%
+Yes,Male,Yes,70,180,7,Red,>40%
+Yes,Male,Yes,70,180,8,Red,>40%
+Yes,Female,No,40,120,4,Green,<10%
+Yes,Female,No,40,120,5,Green,<10%
+Yes,Female,No,40,120,6,Green,<10%
+Yes,Female,No,40,120,7,Green,<10%
+Yes,Female,No,40,120,8,Orange,20% to <30%
+Yes,Female,No,40,140,4,Green,<10%
+Yes,Female,No,40,140,5,Green,<10%
+Yes,Female,No,40,140,6,Green,<10%
+Yes,Female,No,40,140,7,yellow,10% to <20%
+Yes,Female,No,40,140,8,Red,>40%
+Yes,Female,No,40,160,4,Green,<10%
+Yes,Female,No,40,160,5,yellow,10% to <20%
+Yes,Female,No,40,160,6,Orange,20% to <30%
+Yes,Female,No,40,160,7,Red,>40%
+Yes,Female,No,40,160,8,Red,>40%
+Yes,Female,No,40,180,4,Red-Orange,30% to <40%
+Yes,Female,No,40,180,5,Red,>40%
+Yes,Female,No,40,180,6,Red,>40%
+Yes,Female,No,40,180,7,Red,>40%
+Yes,Female,No,40,180,8,Red,>40%
+Yes,Female,No,50,120,4,Green,<10%
+Yes,Female,No,50,120,5,Green,<10%
+Yes,Female,No,50,120,6,Green,<10%
+Yes,Female,No,50,120,7,yellow,10% to <20%
+Yes,Female,No,50,120,8,Orange,20% to <30%
+Yes,Female,No,50,140,4,Green,<10%
+Yes,Female,No,50,140,5,Green,<10%
+Yes,Female,No,50,140,6,yellow,10% to <20%
+Yes,Female,No,50,140,7,Orange,20% to <30%
+Yes,Female,No,50,140,8,Red,>40%
+Yes,Female,No,50,160,4,yellow,10% to <20%
+Yes,Female,No,50,160,5,Orange,20% to <30%
+Yes,Female,No,50,160,6,Red-Orange,30% to <40%
+Yes,Female,No,50,160,7,Red,>40%
+Yes,Female,No,50,160,8,Red,>40%
+Yes,Female,No,50,180,4,Red-Orange,30% to <40%
+Yes,Female,No,50,180,5,Red,>40%
+Yes,Female,No,50,180,6,Red,>40%
+Yes,Female,No,50,180,7,Red,>40%
+Yes,Female,No,50,180,8,Red,>40%
+Yes,Female,No,60,120,4,Green,<10%
+Yes,Female,No,60,120,5,yellow,10% to <20%
+Yes,Female,No,60,120,6,yellow,10% to <20%
+Yes,Female,No,60,120,7,Orange,20% to <30%
+Yes,Female,No,60,120,8,Red-Orange,30% to <40%
+Yes,Female,No,60,140,4,yellow,10% to <20%
+Yes,Female,No,60,140,5,Orange,20% to <30%
+Yes,Female,No,60,140,6,Red-Orange,30% to <40%
+Yes,Female,No,60,140,7,Red,>40%
+Yes,Female,No,60,140,8,Red,>40%
+Yes,Female,No,60,160,4,Orange,20% to <30%
+Yes,Female,No,60,160,5,Red-Orange,30% to <40%
+Yes,Female,No,60,160,6,Red,>40%
+Yes,Female,No,60,160,7,Red,>40%
+Yes,Female,No,60,160,8,Red,>40%
+Yes,Female,No,60,180,4,Red,>40%
+Yes,Female,No,60,180,5,Red,>40%
+Yes,Female,No,60,180,6,Red,>40%
+Yes,Female,No,60,180,7,Red,>40%
+Yes,Female,No,60,180,8,Red,>40%
+Yes,Female,No,70,120,4,yellow,10% to <20%
+Yes,Female,No,70,120,5,Orange,20% to <30%
+Yes,Female,No,70,120,6,Orange,20% to <30%
+Yes,Female,No,70,120,7,Red-Orange,30% to <40%
+Yes,Female,No,70,120,8,Red,>40%
+Yes,Female,No,70,140,4,Orange,20% to <30%
+Yes,Female,No,70,140,5,Red-Orange,30% to <40%
+Yes,Female,No,70,140,6,Red-Orange,30% to <40%
+Yes,Female,No,70,140,7,Red,>40%
+Yes,Female,No,70,140,8,Red,>40%
+Yes,Female,No,70,160,4,Red-Orange,30% to <40%
+Yes,Female,No,70,160,5,Red,>40%
+Yes,Female,No,70,160,6,Red,>40%
+Yes,Female,No,70,160,7,Red,>40%
+Yes,Female,No,70,160,8,Red,>40%
+Yes,Female,No,70,180,4,Red,>40%
+Yes,Female,No,70,180,5,Red,>40%
+Yes,Female,No,70,180,6,Red,>40%
+Yes,Female,No,70,180,7,Red,>40%
+Yes,Female,No,70,180,8,Red,>40%
+Yes,Female,Yes,40,120,4,Green,<10%
+Yes,Female,Yes,40,120,5,Green,<10%
+Yes,Female,Yes,40,120,6,Green,<10%
+Yes,Female,Yes,40,120,7,yellow,10% to <20%
+Yes,Female,Yes,40,120,8,Red-Orange,30% to <40%
+Yes,Female,Yes,40,140,4,Green,<10%
+Yes,Female,Yes,40,140,5,Green,<10%
+Yes,Female,Yes,40,140,6,yellow,10% to <20%
+Yes,Female,Yes,40,140,7,Red-Orange,30% to <40%
+Yes,Female,Yes,40,140,8,Red,>40%
+Yes,Female,Yes,40,160,4,Orange,20% to <30%
+Yes,Female,Yes,40,160,5,Orange,20% to <30%
+Yes,Female,Yes,40,160,6,Red,>40%
+Yes,Female,Yes,40,160,7,Red,>40%
+Yes,Female,Yes,40,160,8,Red,>40%
+Yes,Female,Yes,40,180,4,Red,>40%
+Yes,Female,Yes,40,180,5,Red,>40%
+Yes,Female,Yes,40,180,6,Red,>40%
+Yes,Female,Yes,40,180,7,Red,>40%
+Yes,Female,Yes,40,180,8,Red,>40%
+Yes,Female,Yes,50,120,4,Green,<10%
+Yes,Female,Yes,50,120,5,Green,<10%
+Yes,Female,Yes,50,120,6,yellow,10% to <20%
+Yes,Female,Yes,50,120,7,Orange,20% to <30%
+Yes,Female,Yes,50,120,8,Red,>40%
+Yes,Female,Yes,50,140,4,yellow,10% to <20%
+Yes,Female,Yes,50,140,5,yellow,10% to <20%
+Yes,Female,Yes,50,140,6,Red-Orange,30% to <40%
+Yes,Female,Yes,50,140,7,Red,>40%
+Yes,Female,Yes,50,140,8,Red,>40%
+Yes,Female,Yes,50,160,4,Orange,20% to <30%
+Yes,Female,Yes,50,160,5,Red-Orange,30% to <40%
+Yes,Female,Yes,50,160,6,Red,>40%
+Yes,Female,Yes,50,160,7,Red,>40%
+Yes,Female,Yes,50,160,8,Red,>40%
+Yes,Female,Yes,50,180,4,Red,>40%
+Yes,Female,Yes,50,180,5,Red,>40%
+Yes,Female,Yes,50,180,6,Red,>40%
+Yes,Female,Yes,50,180,7,Red,>40%
+Yes,Female,Yes,50,180,8,Red,>40%
+Yes,Female,Yes,60,120,4,yellow,10% to <20%
+Yes,Female,Yes,60,120,5,Orange,20% to <30%
+Yes,Female,Yes,60,120,6,Red-Orange,30% to <40%
+Yes,Female,Yes,60,120,7,Red,>40%
+Yes,Female,Yes,60,120,8,Red,>40%
+Yes,Female,Yes,60,140,4,Red-Orange,30% to <40%
+Yes,Female,Yes,60,140,5,Red,>40%
+Yes,Female,Yes,60,140,6,Red,>40%
+Yes,Female,Yes,60,140,7,Red,>40%
+Yes,Female,Yes,60,140,8,Red,>40%
+Yes,Female,Yes,60,160,4,Red,>40%
+Yes,Female,Yes,60,160,5,Red,>40%
+Yes,Female,Yes,60,160,6,Red,>40%
+Yes,Female,Yes,60,160,7,Red,>40%
+Yes,Female,Yes,60,160,8,Red,>40%
+Yes,Female,Yes,60,180,4,Red,>40%
+Yes,Female,Yes,60,180,5,Red,>40%
+Yes,Female,Yes,60,180,6,Red,>40%
+Yes,Female,Yes,60,180,7,Red,>40%
+Yes,Female,Yes,60,180,8,Red,>40%
+Yes,Female,Yes,70,120,4,Orange,20% to <30%
+Yes,Female,Yes,70,120,5,Red-Orange,30% to <40%
+Yes,Female,Yes,70,120,6,Red,>40%
+Yes,Female,Yes,70,120,7,Red,>40%
+Yes,Female,Yes,70,120,8,Red,>40%
+Yes,Female,Yes,70,140,4,Red,>40%
+Yes,Female,Yes,70,140,5,Red,>40%
+Yes,Female,Yes,70,140,6,Red,>40%
+Yes,Female,Yes,70,140,7,Red,>40%
+Yes,Female,Yes,70,140,8,Red,>40%
+Yes,Female,Yes,70,160,4,Red,>40%
+Yes,Female,Yes,70,160,5,Red,>40%
+Yes,Female,Yes,70,160,6,Red,>40%
+Yes,Female,Yes,70,160,7,Red,>40%
+Yes,Female,Yes,70,160,8,Red,>40%
+Yes,Female,Yes,70,180,4,Red,>40%
+Yes,Female,Yes,70,180,5,Red,>40%
+Yes,Female,Yes,70,180,6,Red,>40%
+Yes,Female,Yes,70,180,7,Red,>40%
+Yes,Female,Yes,70,180,8,Red,>40%
+No,Male,No,40,120,4,Green,<10%
+No,Male,No,40,120,5,Green,<10%
+No,Male,No,40,120,6,Green,<10%
+No,Male,No,40,120,7,Green,<10%
+No,Male,No,40,120,8,Green,<10%
+No,Male,No,40,140,4,Green,<10%
+No,Male,No,40,140,5,Green,<10%
+No,Male,No,40,140,6,Green,<10%
+No,Male,No,40,140,7,Green,<10%
+No,Male,No,40,140,8,Orange,20% to <30%
+No,Male,No,40,160,4,Green,<10%
+No,Male,No,40,160,5,Green,<10%
+No,Male,No,40,160,6,yellow,10% to <20%
+No,Male,No,40,160,7,Orange,20% to <30%
+No,Male,No,40,160,8,Red,>40%
+No,Male,No,40,180,4,yellow,10% to <20%
+No,Male,No,40,180,5,Orange,20% to <30%
+No,Male,No,40,180,6,Red-Orange,30% to <40%
+No,Male,No,40,180,7,Red,>40%
+No,Male,No,40,180,8,Red,>40%
+No,Male,No,50,120,4,Green,<10%
+No,Male,No,50,120,5,Green,<10%
+No,Male,No,50,120,6,Green,<10%
+No,Male,No,50,120,7,Green,<10%
+No,Male,No,50,120,8,yellow,10% to <20%
+No,Male,No,50,140,4,Green,<10%
+No,Male,No,50,140,5,Green,<10%
+No,Male,No,50,140,6,Green,<10%
+No,Male,No,50,140,7,yellow,10% to <20%
+No,Male,No,50,140,8,Orange,20% to <30%
+No,Male,No,50,160,4,Green,<10%
+No,Male,No,50,160,5,yellow,10% to <20%
+No,Male,No,50,160,6,yellow,10% to <20%
+No,Male,No,50,160,7,Orange,20% to <30%
+No,Male,No,50,160,8,Red,>40%
+No,Male,No,50,180,4,Orange,20% to <30%
+No,Male,No,50,180,5,Red-Orange,30% to <40%
+No,Male,No,50,180,6,Red,>40%
+No,Male,No,50,180,7,Red,>40%
+No,Male,No,50,180,8,Red,>40%
+No,Male,No,60,120,4,Green,<10%
+No,Male,No,60,120,5,Green,<10%
+No,Male,No,60,120,6,Green,<10%
+No,Male,No,60,120,7,yellow,10% to <20%
+No,Male,No,60,120,8,Orange,20% to <30%
+No,Male,No,60,140,4,Green,<10%
+No,Male,No,60,140,5,yellow,10% to <20%
+No,Male,No,60,140,6,yellow,10% to <20%
+No,Male,No,60,140,7,Orange,20% to <30%
+No,Male,No,60,140,8,Red-Orange,30% to <40%
+No,Male,No,60,160,4,yellow,10% to <20%
+No,Male,No,60,160,5,Orange,20% to <30%
+No,Male,No,60,160,6,Red-Orange,30% to <40%
+No,Male,No,60,160,7,Red,>40%
+No,Male,No,60,160,8,Red,>40%
+No,Male,No,60,180,4,Red-Orange,30% to <40%
+No,Male,No,60,180,5,Red,>40%
+No,Male,No,60,180,6,Red,>40%
+No,Male,No,60,180,7,Red,>40%
+No,Male,No,60,180,8,Red,>40%
+No,Male,No,70,120,4,Green,<10%
+No,Male,No,70,120,5,yellow,10% to <20%
+No,Male,No,70,120,6,yellow,10% to <20%
+No,Male,No,70,120,7,yellow,10% to <20%
+No,Male,No,70,120,8,Orange,20% to <30%
+No,Male,No,70,140,4,yellow,10% to <20%
+No,Male,No,70,140,5,yellow,10% to <20%
+No,Male,No,70,140,6,Orange,20% to <30%
+No,Male,No,70,140,7,Orange,20% to <30%
+No,Male,No,70,140,8,Red-Orange,30% to <40%
+No,Male,No,70,160,4,yellow,10% to <20%
+No,Male,No,70,160,5,Orange,20% to <30%
+No,Male,No,70,160,6,Red-Orange,30% to <40%
+No,Male,No,70,160,7,Red,>40%
+No,Male,No,70,160,8,Red,>40%
+No,Male,No,70,180,4,Red-Orange,30% to <40%
+No,Male,No,70,180,5,Red,>40%
+No,Male,No,70,180,6,Red,>40%
+No,Male,No,70,180,7,Red,>40%
+No,Male,No,70,180,8,Red,>40%
+No,Male,Yes,40,120,4,Green,<10%
+No,Male,Yes,40,120,5,Green,<10%
+No,Male,Yes,40,120,6,Green,<10%
+No,Male,Yes,40,120,7,Green,<10%
+No,Male,Yes,40,120,8,yellow,10% to <20%
+No,Male,Yes,40,140,4,Green,<10%
+No,Male,Yes,40,140,5,Green,<10%
+No,Male,Yes,40,140,6,Green,<10%
+No,Male,Yes,40,140,7,yellow,10% to <20%
+No,Male,Yes,40,140,8,Red,>40%
+No,Male,Yes,40,160,4,Green,<10%
+No,Male,Yes,40,160,5,yellow,10% to <20%
+No,Male,Yes,40,160,6,Orange,20% to <30%
+No,Male,Yes,40,160,7,Red,>40%
+No,Male,Yes,40,160,8,Red,>40%
+No,Male,Yes,40,180,4,Orange,20% to <30%
+No,Male,Yes,40,180,5,Red,>40%
+No,Male,Yes,40,180,6,Red,>40%
+No,Male,Yes,40,180,7,Red,>40%
+No,Male,Yes,40,180,8,Red,>40%
+No,Male,Yes,50,120,4,Green,<10%
+No,Male,Yes,50,120,5,Green,<10%
+No,Male,Yes,50,120,6,Green,<10%
+No,Male,Yes,50,120,7,yellow,10% to <20%
+No,Male,Yes,50,120,8,Orange,20% to <30%
+No,Male,Yes,50,140,4,Green,<10%
+No,Male,Yes,50,140,5,Green,<10%
+No,Male,Yes,50,140,6,yellow,10% to <20%
+No,Male,Yes,50,140,7,Orange,20% to <30%
+No,Male,Yes,50,140,8,Red,>40%
+No,Male,Yes,50,160,4,yellow,10% to <20%
+No,Male,Yes,50,160,5,Orange,20% to <30%
+No,Male,Yes,50,160,6,Red-Orange,30% to <40%
+No,Male,Yes,50,160,7,Red,>40%
+No,Male,Yes,50,160,8,Red,>40%
+No,Male,Yes,50,180,4,Red-Orange,30% to <40%
+No,Male,Yes,50,180,5,Red,>40%
+No,Male,Yes,50,180,6,Red,>40%
+No,Male,Yes,50,180,7,Red,>40%
+No,Male,Yes,50,180,8,Red,>40%
+No,Male,Yes,60,120,4,Green,<10%
+No,Male,Yes,60,120,5,yellow,10% to <20%
+No,Male,Yes,60,120,6,yellow,10% to <20%
+No,Male,Yes,60,120,7,Orange,20% to <30%
+No,Male,Yes,60,120,8,Red-Orange,30% to <40%
+No,Male,Yes,60,140,4,yellow,10% to <20%
+No,Male,Yes,60,140,5,Orange,20% to <30%
+No,Male,Yes,60,140,6,Orange,20% to <30%
+No,Male,Yes,60,140,7,Red,>40%
+No,Male,Yes,60,140,8,Red,>40%
+No,Male,Yes,60,160,4,Orange,20% to <30%
+No,Male,Yes,60,160,5,Red-Orange,30% to <40%
+No,Male,Yes,60,160,6,Red,>40%
+No,Male,Yes,60,160,7,Red,>40%
+No,Male,Yes,60,160,8,Red,>40%
+No,Male,Yes,60,180,4,Red,>40%
+No,Male,Yes,60,180,5,Red,>40%
+No,Male,Yes,60,180,6,Red,>40%
+No,Male,Yes,60,180,7,Red,>40%
+No,Male,Yes,60,180,8,Red,>40%
+No,Male,Yes,70,120,4,yellow,10% to <20%
+No,Male,Yes,70,120,5,yellow,10% to <20%
+No,Male,Yes,70,120,6,Orange,20% to <30%
+No,Male,Yes,70,120,7,Orange,20% to <30%
+No,Male,Yes,70,120,8,Red-Orange,30% to <40%
+No,Male,Yes,70,140,4,yellow,10% to <20%
+No,Male,Yes,70,140,5,Orange,20% to <30%
+No,Male,Yes,70,140,6,Red-Orange,30% to <40%
+No,Male,Yes,70,140,7,Red,>40%
+No,Male,Yes,70,140,8,Red,>40%
+No,Male,Yes,70,160,4,Red-Orange,30% to <40%
+No,Male,Yes,70,160,5,Red-Orange,30% to <40%
+No,Male,Yes,70,160,6,Red,>40%
+No,Male,Yes,70,160,7,Red,>40%
+No,Male,Yes,70,160,8,Red,>40%
+No,Male,Yes,70,180,4,Red,>40%
+No,Male,Yes,70,180,5,Red,>40%
+No,Male,Yes,70,180,6,Red,>40%
+No,Male,Yes,70,180,7,Red,>40%
+No,Male,Yes,70,180,8,Red,>40%
+No,Female,No,40,120,4,Green,<10%
+No,Female,No,40,120,5,Green,<10%
+No,Female,No,40,120,6,Green,<10%
+No,Female,No,40,120,7,Green,<10%
+No,Female,No,40,120,8,Green,<10%
+No,Female,No,40,140,4,Green,<10%
+No,Female,No,40,140,5,Green,<10%
+No,Female,No,40,140,6,Green,<10%
+No,Female,No,40,140,7,Green,<10%
+No,Female,No,40,140,8,Orange,20% to <30%
+No,Female,No,40,160,4,Green,<10%
+No,Female,No,40,160,5,Green,<10%
+No,Female,No,40,160,6,yellow,10% to <20%
+No,Female,No,40,160,7,Orange,20% to <30%
+No,Female,No,40,160,8,Red,>40%
+No,Female,No,40,180,4,yellow,10% to <20%
+No,Female,No,40,180,5,Orange,20% to <30%
+No,Female,No,40,180,6,Red-Orange,30% to <40%
+No,Female,No,40,180,7,Red,>40%
+No,Female,No,40,180,8,Red,>40%
+No,Female,No,50,120,4,Green,<10%
+No,Female,No,50,120,5,Green,<10%
+No,Female,No,50,120,6,Green,<10%
+No,Female,No,50,120,7,Green,<10%
+No,Female,No,50,120,8,yellow,10% to <20%
+No,Female,No,50,140,4,Green,<10%
+No,Female,No,50,140,5,Green,<10%
+No,Female,No,50,140,6,Green,<10%
+No,Female,No,50,140,7,yellow,10% to <20%
+No,Female,No,50,140,8,Orange,20% to <30%
+No,Female,No,50,160,4,Green,<10%
+No,Female,No,50,160,5,yellow,10% to <20%
+No,Female,No,50,160,6,yellow,10% to <20%
+No,Female,No,50,160,7,Orange,20% to <30%
+No,Female,No,50,160,8,Red,>40%
+No,Female,No,50,180,4,Orange,20% to <30%
+No,Female,No,50,180,5,Red-Orange,30% to <40%
+No,Female,No,50,180,6,Red,>40%
+No,Female,No,50,180,7,Red,>40%
+No,Female,No,50,180,8,Red,>40%
+No,Female,No,60,120,4,Green,<10%
+No,Female,No,60,120,5,Green,<10%
+No,Female,No,60,120,6,Green,<10%
+No,Female,No,60,120,7,yellow,10% to <20%
+No,Female,No,60,120,8,yellow,10% to <20%
+No,Female,No,60,140,4,Green,<10%
+No,Female,No,60,140,5,yellow,10% to <20%
+No,Female,No,60,140,6,yellow,10% to <20%
+No,Female,No,60,140,7,Orange,20% to <30%
+No,Female,No,60,140,8,Red-Orange,30% to <40%
+No,Female,No,60,160,4,yellow,10% to <20%
+No,Female,No,60,160,5,yellow,10% to <20%
+No,Female,No,60,160,6,Orange,20% to <30%
+No,Female,No,60,160,7,Red-Orange,30% to <40%
+No,Female,No,60,160,8,Red,>40%
+No,Female,No,60,180,4,Red-Orange,30% to <40%
+No,Female,No,60,180,5,Red,>40%
+No,Female,No,60,180,6,Red,>40%
+No,Female,No,60,180,7,Red,>40%
+No,Female,No,60,180,8,Red,>40%
+No,Female,No,70,120,4,Green,<10%
+No,Female,No,70,120,5,Green,<10%
+No,Female,No,70,120,6,Green,<10%
+No,Female,No,70,120,7,yellow,10% to <20%
+No,Female,No,70,120,8,yellow,10% to <20%
+No,Female,No,70,140,4,yellow,10% to <20%
+No,Female,No,70,140,5,yellow,10% to <20%
+No,Female,No,70,140,6,yellow,10% to <20%
+No,Female,No,70,140,7,Orange,20% to <30%
+No,Female,No,70,140,8,Red-Orange,30% to <40%
+No,Female,No,70,160,4,yellow,10% to <20%
+No,Female,No,70,160,5,Orange,20% to <30%
+No,Female,No,70,160,6,Red-Orange,30% to <40%
+No,Female,No,70,160,7,Red-Orange,30% to <40%
+No,Female,No,70,160,8,Red,>40%
+No,Female,No,70,180,4,Red-Orange,30% to <40%
+No,Female,No,70,180,5,Red,>40%
+No,Female,No,70,180,6,Red,>40%
+No,Female,No,70,180,7,Red,>40%
+No,Female,No,70,180,8,Red,>40%
+No,Female,Yes,40,120,4,Green,<10%
+No,Female,Yes,40,120,5,Green,<10%
+No,Female,Yes,40,120,6,Green,<10%
+No,Female,Yes,40,120,7,Green,<10%
+No,Female,Yes,40,120,8,Orange,20% to <30%
+No,Female,Yes,40,140,4,Green,<10%
+No,Female,Yes,40,140,5,Green,<10%
+No,Female,Yes,40,140,6,Green,<10%
+No,Female,Yes,40,140,7,yellow,10% to <20%
+No,Female,Yes,40,140,8,Red,>40%
+No,Female,Yes,40,160,4,Green,<10%
+No,Female,Yes,40,160,5,yellow,10% to <20%
+No,Female,Yes,40,160,6,Orange,20% to <30%
+No,Female,Yes,40,160,7,Red,>40%
+No,Female,Yes,40,160,8,Red,>40%
+No,Female,Yes,40,180,4,Red-Orange,30% to <40%
+No,Female,Yes,40,180,5,Red,>40%
+No,Female,Yes,40,180,6,Red,>40%
+No,Female,Yes,40,180,7,Red,>40%
+No,Female,Yes,40,180,8,Red,>40%
+No,Female,Yes,50,120,4,Green,<10%
+No,Female,Yes,50,120,5,Green,<10%
+No,Female,Yes,50,120,6,Green,<10%
+No,Female,Yes,50,120,7,yellow,10% to <20%
+No,Female,Yes,50,120,8,Orange,20% to <30%
+No,Female,Yes,50,140,4,Green,<10%
+No,Female,Yes,50,140,5,Green,<10%
+No,Female,Yes,50,140,6,yellow,10% to <20%
+No,Female,Yes,50,140,7,Orange,20% to <30%
+No,Female,Yes,50,140,8,Red,>40%
+No,Female,Yes,50,160,4,yellow,10% to <20%
+No,Female,Yes,50,160,5,Orange,20% to <30%
+No,Female,Yes,50,160,6,Red-Orange,30% to <40%
+No,Female,Yes,50,160,7,Red,>40%
+No,Female,Yes,50,160,8,Red,>40%
+No,Female,Yes,50,180,4,Red-Orange,30% to <40%
+No,Female,Yes,50,180,5,Red,>40%
+No,Female,Yes,50,180,6,Red,>40%
+No,Female,Yes,50,180,7,Red,>40%
+No,Female,Yes,50,180,8,Red,>40%
+No,Female,Yes,60,120,4,Green,<10%
+No,Female,Yes,60,120,5,yellow,10% to <20%
+No,Female,Yes,60,120,6,yellow,10% to <20%
+No,Female,Yes,60,120,7,Orange,20% to <30%
+No,Female,Yes,60,120,8,Red-Orange,30% to <40%
+No,Female,Yes,60,140,4,yellow,10% to <20%
+No,Female,Yes,60,140,5,Orange,20% to <30%
+No,Female,Yes,60,140,6,Orange,20% to <30%
+No,Female,Yes,60,140,7,Red,>40%
+No,Female,Yes,60,140,8,Red,>40%
+No,Female,Yes,60,160,4,Orange,20% to <30%
+No,Female,Yes,60,160,5,Red-Orange,30% to <40%
+No,Female,Yes,60,160,6,Red,>40%
+No,Female,Yes,60,160,7,Red,>40%
+No,Female,Yes,60,160,8,Red,>40%
+No,Female,Yes,60,180,4,Red,>40%
+No,Female,Yes,60,180,5,Red,>40%
+No,Female,Yes,60,180,6,Red,>40%
+No,Female,Yes,60,180,7,Red,>40%
+No,Female,Yes,60,180,8,Red,>40%
+No,Female,Yes,70,120,4,yellow,10% to <20%
+No,Female,Yes,70,120,5,yellow,10% to <20%
+No,Female,Yes,70,120,6,yellow,10% to <20%
+No,Female,Yes,70,120,7,Orange,20% to <30%
+No,Female,Yes,70,120,8,Red-Orange,30% to <40%
+No,Female,Yes,70,140,4,yellow,10% to <20%
+No,Female,Yes,70,140,5,Orange,20% to <30%
+No,Female,Yes,70,140,6,Red-Orange,30% to <40%
+No,Female,Yes,70,140,7,Red,>40%
+No,Female,Yes,70,140,8,Red,>40%
+No,Female,Yes,70,160,4,Red-Orange,30% to <40%
+No,Female,Yes,70,160,5,Red-Orange,30% to <40%
+No,Female,Yes,70,160,6,Red,>40%
+No,Female,Yes,70,160,7,Red,>40%
+No,Female,Yes,70,160,8,Red,>40%
+No,Female,Yes,70,180,4,Red,>40%
+No,Female,Yes,70,180,5,Red,>40%
+No,Female,Yes,70,180,6,Red,>40%
+No,Female,Yes,70,180,7,Red,>40%
+No,Female,Yes,70,180,8,Red,>40%
